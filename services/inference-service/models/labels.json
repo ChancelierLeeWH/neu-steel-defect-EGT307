@@ -1,0 +1,18 @@
+{
+  "class_to_idx": {
+    "Crazing": 0,
+    "Inclusion": 1,
+    "Patches": 2,
+    "Pitted": 3,
+    "Rolled": 4,
+    "Scratches": 5
+  },
+  "idx_to_class": {
+    "0": "Crazing",
+    "1": "Inclusion",
+    "2": "Patches",
+    "3": "Pitted",
+    "4": "Rolled",
+    "5": "Scratches"
+  }
+}

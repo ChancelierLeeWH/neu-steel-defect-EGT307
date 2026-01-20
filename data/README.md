@@ -8,3 +8,7 @@ data/neu_dataset/test/...
 
 The class folders should be:
 Crazing, Inclusion, Patches, Pitted, Rolled, Scratches
+
+Download dataset from Kaggle
+Place it in data/neu_dataset/train valid test
+List class folder names
